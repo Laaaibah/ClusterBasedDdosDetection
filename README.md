@@ -2,9 +2,6 @@
 
 ## Using MPI for Distributed Real-Time Analysis
 
-**Authors:** Laaibah Qayyum (22i1604), Ali Imran (22i1568)  
-**Date:** November 18, 2025
-
 ---
 
 ## Executive Summary
